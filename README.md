@@ -10,7 +10,7 @@ json
 re
 ~~~
 
- * To check if they are installed on your system, open CMD the write python and then write the following on the command line.
+ * To check if they are installed on your system, open CMD then write python and then write the following on the command line.
  ~~~
  
  import docx2txt

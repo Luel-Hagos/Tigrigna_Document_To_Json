@@ -2,12 +2,13 @@
 **Description How It Works**
 * It is written with python programming (python3)
 * Make sure that the following modules are installed in your python:
-      ~~~
-      docx2txt
-      zipfile
-      json
-      re
-      ~~~
+~~~
+docx2txt
+zipfile
+json
+re
+~~~
+
  * To check if they are installed on your python use
  ~~~
  

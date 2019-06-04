@@ -3,10 +3,10 @@
 * It is written with python programming (python3)
 * Make sure that the following modules are installed in your python:
       ~~~
-      - docx2txt
-      - zipfile
-      - json
-      - re
+      docx2txt
+      zipfile
+      json
+      re
       ~~~
  * To check if they are installed on your python use
  ~~~
@@ -33,6 +33,6 @@ pip install re
 * [ETL_SAMPLE_DICT.zip](https://github.com/Luel-Hagos/Tigrigna_Document_To_Json/blob/master/ETL_SAMPLE_DICT.zip) contains tigrigna documents to be changed in to JSON structure.
 * [JsonOutput.py](https://github.com/Luel-Hagos/Tigrigna_Document_To_Json/blob/master/JsonOutput.py) contains the source code.
 * [ETL_SAMPLE_DICT01.json](https://github.com/Luel-Hagos/Tigrigna_Document_To_Json/blob/master/ETL_SAMPLE_DICT01.json) and [ETL_SAMPLE_DICT02.json](https://github.com/Luel-Hagos/Tigrigna_Document_To_Json/blob/master/ETL_SAMPLE_DICT02.json) are the output json files.
-* When you run the program make sure that you are in the same diroctary with ETL_SAMPLE_DICT.zip , unless you specified the path of it.
+* When you run the program make sure that you are in the same diroctary with *_ETL_SAMPLE_DICT.zip_* , unless you specified the path of it.
 
 

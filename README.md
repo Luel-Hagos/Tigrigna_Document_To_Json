@@ -1,6 +1,6 @@
 # Tigrigna_Document_To_Json
 
-#**Description How It Works**
+# **Description How It Works**
 * It is written with python programming (python3)
 * Make sure that the following modules are installed in your python:
 ~~~

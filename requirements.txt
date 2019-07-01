@@ -1,0 +1,4 @@
+docx2txt==0.7
+zipfile
+json
+re
